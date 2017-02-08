@@ -1,1 +1,9 @@
-feeffHello,.mf/lbmrdsadasdasdasdas/l.gfb /
+public class Hello
+{
+  String s="ram";
+public static void main(String args[]){
+system.out.println("hello"  + s);
+
+}
+
+}
